@@ -28,7 +28,12 @@ It uses the previously demonstrated menu function to allow the user so select th
 
 ![loadfile3](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/bd3f40d9-05ab-471d-b9f2-e5df102b0fc1)
 
+This is the first sub menu that the user will see, allowing them to select either the folder of ordered or randomized word files.
+
 ![ORselect](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/fa6323f9-0825-4d77-9f53-c9b91fa18420)
+
+This is the second sub menu that the user will see upon selcting a folder. When the user selects an option, it uses the 
+coresponding array index to assign the path of that file to the [WordFile] variable.
 
 ![fileSelect](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/dddc8c5e-cb10-443a-9684-1285680babaf)
 
