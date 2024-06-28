@@ -24,7 +24,11 @@ one with minimal or no visual indication of its sucess or failure.
 ![climenu2](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/cefaf76b-a5f1-42b9-acb8-4d3386079a99)
 
 The following function dynamicly generates an array from the files within the selected nested folder.
-It uses the previously demonstrated menue function to allow the user so select the desired item.
+It uses the previously demonstrated menu function to allow the user so select the desired file.
 
 ![loadfile3](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/bd3f40d9-05ab-471d-b9f2-e5df102b0fc1)
+
+![ORselect](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/fa6323f9-0825-4d77-9f53-c9b91fa18420)
+
+![fileSelect](https://github.com/c99999991/PortfolioPiece2CLIMenuSystem/assets/142708292/dddc8c5e-cb10-443a-9684-1285680babaf)
 
